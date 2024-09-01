@@ -1,3 +1,5 @@
+# 🚨 LEIA
+
 ### Sobre as Aulas
 
 Este repositório contém as transcrições das aulas ministradas pelo Florisvaldo. À medida que novas aulas forem realizadas, este repositório será atualizado com o conteúdo correspondente.
