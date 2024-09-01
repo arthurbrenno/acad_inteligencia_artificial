@@ -36,7 +36,7 @@ onde $f$ é a função de ativação.
 
 A função de ativação introduz não-linearidade ao modelo, permitindo que a rede neural aprenda padrões mais complexos. Na aula, focamos na função degrau:
 
-![Imagem](./funcao_at.png)
+![Imagem](/material/aula%202/imagens/funcao_at.png)
 
 Esta função é simples, mas limitada. Em redes mais avançadas, funções como sigmoid, tanh ou ReLU são mais comumente usadas.
 
